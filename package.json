@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "async": "^3.0.1",
-    "buble": "^0.19.0",
+    "buble": "^0.19.8",
     "express": "^4.14.0",
     "joi": "^14.3.0",
     "mocha": "^6.0.0",
